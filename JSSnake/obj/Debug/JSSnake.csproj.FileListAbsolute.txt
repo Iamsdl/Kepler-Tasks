@@ -1,0 +1,68 @@
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\csc.exe
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\csc.exe.config
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\csc.rsp
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\csi.exe
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\csi.rsp
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\System.AppContext.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\System.Collections.Immutable.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\System.IO.FileSystem.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\vbc.exe
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\vbc.exe.config
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\vbc.rsp
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\VBCSCompiler.exe
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\roslyn\VBCSCompiler.exe.config
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\JSSnake.dll.config
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\JSSnake.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\JSSnake.pdb
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\obj\Debug\JSSnake.csprojResolveAssemblyReference.cache
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\obj\Debug\JSSnake.dll
+c:\users\intern\documents\visual studio 2017\Projects\JSSnake\JSSnake\obj\Debug\JSSnake.pdb
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\csc.exe
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\csc.exe.config
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\csc.rsp
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\csi.exe
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\csi.rsp
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\System.AppContext.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\vbc.exe
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\vbc.exe.config
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\vbc.rsp
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\VBCSCompiler.exe
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\JSSnake.dll.config
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\JSSnake.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\JSSnake.pdb
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\obj\Debug\JSSnake.csprojResolveAssemblyReference.cache
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\obj\Debug\JSSnake.dll
+C:\Users\intern\Source\Repos\JsSnake\JSSnake\JSSnake\obj\Debug\JSSnake.pdb

@@ -1,0 +1,10 @@
+C:\Users\intern\Source\Repos\Entity framework\entity\entity\bin\Debug\entity.exe.config
+C:\Users\intern\Source\Repos\Entity framework\entity\entity\bin\Debug\entity.exe
+C:\Users\intern\Source\Repos\Entity framework\entity\entity\bin\Debug\entity.pdb
+C:\Users\intern\Source\Repos\Entity framework\entity\entity\bin\Debug\EntityFramework.dll
+C:\Users\intern\Source\Repos\Entity framework\entity\entity\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\intern\Source\Repos\Entity framework\entity\entity\bin\Debug\EntityFramework.xml
+C:\Users\intern\Source\Repos\Entity framework\entity\entity\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\intern\Source\Repos\Entity framework\entity\entity\obj\Debug\entity.csprojResolveAssemblyReference.cache
+C:\Users\intern\Source\Repos\Entity framework\entity\entity\obj\Debug\entity.exe
+C:\Users\intern\Source\Repos\Entity framework\entity\entity\obj\Debug\entity.pdb

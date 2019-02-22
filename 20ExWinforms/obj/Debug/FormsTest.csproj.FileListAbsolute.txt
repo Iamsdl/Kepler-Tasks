@@ -1,0 +1,11 @@
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\FormsTest\bin\Debug\FormsTest.exe.config
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\FormsTest\bin\Debug\FormsTest.exe
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\FormsTest\bin\Debug\FormsTest.pdb
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\FormsTest\obj\Debug\FormsTest.csprojResolveAssemblyReference.cache
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\FormsTest\obj\Debug\FormsTest.Form1.resources
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\FormsTest\obj\Debug\FormsTest.Properties.Resources.resources
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\FormsTest\obj\Debug\FormsTest.csproj.GenerateResource.Cache
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\FormsTest\obj\Debug\FormsTest.exe
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\FormsTest\obj\Debug\FormsTest.pdb
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\FormsTest\bin\Debug\20Ex.dll
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\FormsTest\bin\Debug\20Ex.dll.config

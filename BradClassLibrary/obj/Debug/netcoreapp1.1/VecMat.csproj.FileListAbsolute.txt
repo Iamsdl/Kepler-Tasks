@@ -1,0 +1,7 @@
+c:\users\intern\documents\visual studio 2017\Projects\Brad\ClassLibrary1\bin\Debug\netcoreapp1.1\VecMat.deps.json
+c:\users\intern\documents\visual studio 2017\Projects\Brad\ClassLibrary1\bin\Debug\netcoreapp1.1\VecMat.dll
+c:\users\intern\documents\visual studio 2017\Projects\Brad\ClassLibrary1\bin\Debug\netcoreapp1.1\VecMat.pdb
+c:\users\intern\documents\visual studio 2017\Projects\Brad\ClassLibrary1\obj\Debug\netcoreapp1.1\VecMat.csprojResolveAssemblyReference.cache
+c:\users\intern\documents\visual studio 2017\Projects\Brad\ClassLibrary1\obj\Debug\netcoreapp1.1\VecMat.AssemblyInfo.cs
+c:\users\intern\documents\visual studio 2017\Projects\Brad\ClassLibrary1\obj\Debug\netcoreapp1.1\VecMat.dll
+c:\users\intern\documents\visual studio 2017\Projects\Brad\ClassLibrary1\obj\Debug\netcoreapp1.1\VecMat.pdb

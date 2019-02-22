@@ -1,0 +1,39 @@
+﻿<Page
+    x:Class="Main.MainPage"
+    xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+    xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+    xmlns:local="using:Main"
+    xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+    xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+    mc:Ignorable="d">
+
+    <Grid Background="White">
+        <Grid.RowDefinitions>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="80"/>
+            <RowDefinition Height="760"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="160"/>
+            <ColumnDefinition Width="480"/>
+            <ColumnDefinition Width="320"/>
+        </Grid.ColumnDefinitions>
+        <Grid x:Name="MenuAnime" Background="White" Width="480" Margin="-640,0,0,0" HorizontalAlignment="Left" Grid.Column="1">
+            <ToggleButton Content="Episodes" HorizontalAlignment="Left" VerticalAlignment="Top" Height="80" Width="160" FontSize="25"/>
+            <ToggleButton Content="OVAs" HorizontalAlignment="Left" VerticalAlignment="Top" Height="80" Width="160" Margin="160,0,0,0" FontSize="25"/>
+            <ToggleButton Content="Specials" HorizontalAlignment="Left" VerticalAlignment="Top" Height="80" Width="160" Margin="320,0,0,0" FontSize="25"/>
+        </Grid>
+        <Grid x:Name="Menu" HorizontalAlignment="Left" Height="240" VerticalAlignment="Top" Width="160" Background="White" Canvas.ZIndex="1" Grid.Row="1" Grid.RowSpan="2" Margin="0,-320,0,0">
+            <ToggleButton HorizontalAlignment="Left" Content="Western"  VerticalAlignment="Top" Width="160" Height="80" FontSize="20" Margin="0,80,0,0" Canvas.ZIndex="1"/>
+            <ToggleButton HorizontalAlignment="Left" Content="Games"  VerticalAlignment="Top" Width="160" Height="80" FontSize="20" Canvas.ZIndex="1"/>
+            <ToggleButton x:Name="AnimeMenuButton" HorizontalAlignment="Left" Content="Anime"  VerticalAlignment="Top" Width="160" Height="80" FontSize="20" Margin="0,160,0,0" Canvas.ZIndex="1" Checked="AnimeMenuButton_Checked" Unchecked="AnimeMenuButton_Unchecked"/>
+        </Grid>
+        <ToggleButton x:Name="All" Content="" HorizontalAlignment="Left" VerticalAlignment="Top" Height="80" Width="160" Checked="All_Checked" Canvas.ZIndex="2" Unchecked="All_Unchecked"/>
+        <Grid Grid.Column="2" HorizontalAlignment="Left" Height="1080" Grid.RowSpan="3" VerticalAlignment="Top" Width="1280" Margin="0,0,-960,-160" Background="#FFE6E5E5">
+            <Image HorizontalAlignment="Left" Height="180" VerticalAlignment="Top" Width="320" FocusVisualPrimaryBrush="#FFC75F5F"/>
+        </Grid>
+        <Grid Grid.Column="1" HorizontalAlignment="Left" Height="80" Grid.Row="1" VerticalAlignment="Top" Width="480" Margin="-640,0,0,0">
+            <TextBox HorizontalAlignment="Left" TextWrapping="Wrap" Text="test text" VerticalAlignment="Top" Height="40" Width="160" PlaceholderText="Search" TextAlignment="Center" FontSize="20" Margin="0,20,0,0"/>
+        </Grid>
+    </Grid>
+</Page>

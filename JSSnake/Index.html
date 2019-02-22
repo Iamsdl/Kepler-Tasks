@@ -1,0 +1,45 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <link rel="stylesheet" href="https://code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+    <link href="css/stuff.css" rel="stylesheet" />
+    <script src="scripts/jquery-3.1.1.min.js"></script>
+    <script src="scripts/jquery-ui-1.12.1.min.js"></script>
+</head>
+<body onkeypress="game.keyPressed(event)">
+    <div id="container">
+        <div id="div0" class="tail"></div>
+    </div>
+
+    <div id="options">
+        <label for="containerColor">Container color:</label>
+        <input id="containerColor" type="color" name="containerColor" value="#000000"/>
+        <br />
+        <br />
+
+        <label for="containerColor">Tail color:</label>
+        <input id="tailColor" type="color" name="tailColor" value="#000000"/>
+        <br />
+        <br />
+
+        <label for="containerColor">Head color:</label>
+        <input id="headColor" type="color" name="headColor" value="#000000"/>
+        <br />
+        <br />
+
+        <label for="foodColor">Head color:</label>
+        <input id="foodColor" type="color" name="headColor" value="#000000" />
+        <br />
+        <br />
+
+        <p>Container height:</p><div id="containerHeight"></div>
+        <p>Container width:</p><div id="containerWidth"></div>
+        <p>Snake size:</p><div id="snakeSize"></div>
+    </div>
+
+    <script src="scripts/stuff.js"></script>
+    
+    
+
+</body>
+</html>

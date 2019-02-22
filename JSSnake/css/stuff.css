@@ -1,0 +1,35 @@
+﻿#container {
+    height: 50%;
+    width: 50%;
+    background-color: blue;
+    position: absolute;
+    top: 25%;
+    bottom: 25%;
+    left: 25%;
+    right: 25%;
+}
+
+input{
+    float:right;
+}
+
+#div0 {
+    background-color: red;
+    z-index: 2;
+}
+
+.tail {
+    background-color: black;
+    z-index: 0;
+    position: absolute;
+}
+
+#food {
+    background-color: green;
+    position: absolute;
+    z-index: 1;
+}
+
+#options{
+    background-color:white;
+}

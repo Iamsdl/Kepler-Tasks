@@ -1,0 +1,2 @@
+MainPackage=C:\Users\intern\Source\Repos\Windows forms\FormsTest\UWPtest\bin\x86\Release\UWPtest_1.0.1.0_x86.appx
+SymbolPackage=C:\Users\intern\Source\Repos\Windows forms\FormsTest\UWPtest\AppPackages\UWPtest_1.0.1.0_Test\UWPtest_1.0.1.0_x86.appxsym

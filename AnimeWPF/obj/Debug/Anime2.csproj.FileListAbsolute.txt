@@ -1,0 +1,14 @@
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime2\bin\Debug\Anime2.exe.config
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime2\bin\Debug\Anime2.exe
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime2\bin\Debug\Anime2.pdb
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime2\obj\Debug\Anime2.csprojResolveAssemblyReference.cache
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime2\obj\Debug\MainWindow.g.cs
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime2\obj\Debug\App.g.cs
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime2\obj\Debug\Anime2_MarkupCompile.cache
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime2\obj\Debug\Anime2_MarkupCompile.lref
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime2\obj\Debug\MainWindow.baml
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime2\obj\Debug\Anime2.g.resources
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime2\obj\Debug\Anime2.Properties.Resources.resources
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime2\obj\Debug\Anime2.csproj.GenerateResource.Cache
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime2\obj\Debug\Anime2.exe
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime2\obj\Debug\Anime2.pdb

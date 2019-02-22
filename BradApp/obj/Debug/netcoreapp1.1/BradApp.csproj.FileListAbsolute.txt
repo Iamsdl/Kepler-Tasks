@@ -1,0 +1,7 @@
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradApp\bin\Debug\netcoreapp1.1\BradApp.deps.json
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradApp\bin\Debug\netcoreapp1.1\BradApp.dll
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradApp\bin\Debug\netcoreapp1.1\BradApp.pdb
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradApp\obj\Debug\netcoreapp1.1\BradApp.csprojResolveAssemblyReference.cache
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradApp\obj\Debug\netcoreapp1.1\BradApp.AssemblyInfo.cs
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradApp\obj\Debug\netcoreapp1.1\BradApp.dll
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradApp\obj\Debug\netcoreapp1.1\BradApp.pdb

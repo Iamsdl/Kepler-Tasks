@@ -1,0 +1,13 @@
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradConsola\bin\Debug\netcoreapp1.1\BradConsola.deps.json
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradConsola\bin\Debug\netcoreapp1.1\BradConsola.runtimeconfig.json
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradConsola\bin\Debug\netcoreapp1.1\BradConsola.runtimeconfig.dev.json
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradConsola\bin\Debug\netcoreapp1.1\BradConsola.dll
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradConsola\bin\Debug\netcoreapp1.1\BradConsola.pdb
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradConsola\bin\Debug\netcoreapp1.1\BradApp.dll
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradConsola\bin\Debug\netcoreapp1.1\BradApp.pdb
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradConsola\obj\Debug\netcoreapp1.1\BradConsola.csprojResolveAssemblyReference.cache
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradConsola\obj\Debug\netcoreapp1.1\BradConsola.AssemblyInfo.cs
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradConsola\obj\Debug\netcoreapp1.1\BradConsola.dll
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradConsola\obj\Debug\netcoreapp1.1\BradConsola.pdb
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradConsola\bin\Debug\netcoreapp1.1\VecMat.dll
+c:\users\intern\documents\visual studio 2017\Projects\Brad\BradConsola\bin\Debug\netcoreapp1.1\VecMat.pdb

@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Exe</OutputType>
+    <TargetFramework>netcoreapp1.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\BradApp\BradApp.csproj" />
+    <ProjectReference Include="..\ClassLibrary1\VecMat.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="VecMat">
+      <HintPath>..\..\VecMat\VecMat\bin\Debug\netcoreapp1.1\VecMat.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,86 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title></title>
+    <script src="scripts/jquery-3.1.1.min.js"></script>
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+    <script src="scripts/bootstrap.min.js"></script>
+    <link href="css/stuff.css" rel="stylesheet" />
+    <script src="scripts/stuff.js"></script>
+</head>
+<body>
+    <div class="container-fluid">
+        <nav class="navbar navbar-inverse">
+            <ul class="nav navbar-nav navbar-left">
+                <li>
+                    <a href=".menu1" data-toggle="collapse" onclick="menu()">Anime <span class="glyphicon glyphicon-menu-down"></span></a>
+                </li>
+                <li>
+                    <a href=".menu2" data-toggle="collapse" onclick="menu()">Movies <span class="glyphicon glyphicon-menu-down"></span></a>
+                </li>
+            </ul>
+            <form class="navbar-form navbar-right">
+                <div class="input-group input-group-sm">
+                    <div class="input-group-btn">
+                        <button id="refresh" class="btn">
+                            <span class="glyphicon glyphicon-refresh"></span>
+                        </button>
+                    </div>
+                    <input type="text" class="form-control" placeholder="Search" />
+                    <div class="input-group-btn">
+                        <button class="btn">
+                            <span class="glyphicon glyphicon-search"></span>
+                        </button>
+                    </div>
+                </div>
+            </form>
+        </nav>
+    </div>
+
+
+    <div class="container-fluid">
+        <div class="row">
+            <div class="container-fluid col-md-3">
+                <div class="jumbotron" id="accordion">
+                    <ul class="nav nav-pills nav-stacked collapse menu1">
+                        <li>
+                            <a onclick="showAll()">All</a>
+                        </li>
+                        <li>
+                            <a>Episodes</a>
+                        </li>
+                        <li>
+                            <a onclick="showOVAs()">OVAs</a>
+                        </li>
+                        <li>
+                            <a>Specials</a>
+                        </li>
+                        <li>
+                            <a>Movies</a>
+                        </li>
+                    </ul>
+                    <ul class="nav nav-pills nav-stacked collapse menu2">
+                        <li>
+                            <a>Shows</a>
+                        </li>
+                        <li>
+                            <a>Movies</a>
+                        </li>
+                    </ul>
+                    <div class="collapse in text-center annoying">
+                        <h1 id="title">Anime</h1>
+                        <p id="description"></p>
+                    </div>
+                </div>
+            </div>
+
+            <div class="container-fluid col-md-9">
+
+            </div>
+        </div>
+    </div>
+
+</body>
+</html>

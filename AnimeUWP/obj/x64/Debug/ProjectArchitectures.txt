@@ -1,0 +1,1 @@
+C:\Users\intern\Source\Repos\Anime UWP\MAL\Main\Main.csproj;x64

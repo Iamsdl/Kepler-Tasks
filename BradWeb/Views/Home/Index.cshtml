@@ -1,0 +1,18 @@
+﻿@{ Layout = null;}
+<head>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+    <script>
+        $(document).ready(function () {
+            $(":button").click(function () {$("p").animate({ height: 'toggle' })
+            })
+        })
+    </script>
+</head>
+<html>
+<body style="background-color:brown;align-content:center">
+    <input type="button" value="clickme"/>
+    <p style="white-space: pre-line;text-align:center;color:chartreuse;font-weight:bold;">
+        @ViewData["brad"]
+    </p>
+</body>
+</html>

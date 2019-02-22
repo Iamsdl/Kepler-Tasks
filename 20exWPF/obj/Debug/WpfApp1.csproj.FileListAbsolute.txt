@@ -1,0 +1,16 @@
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\bin\Debug\WpfApp1.exe.config
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\bin\Debug\WpfApp1.exe
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\bin\Debug\WpfApp1.pdb
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\obj\Debug\WpfApp1.csprojResolveAssemblyReference.cache
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\obj\Debug\MainWindow.g.cs
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\obj\Debug\App.g.cs
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.cache
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\obj\Debug\WpfApp1_MarkupCompile.lref
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\obj\Debug\MainWindow.baml
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\obj\Debug\WpfApp1.g.resources
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\obj\Debug\WpfApp1.Properties.Resources.resources
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\obj\Debug\WpfApp1.csproj.GenerateResource.Cache
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\obj\Debug\WpfApp1.exe
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\obj\Debug\WpfApp1.pdb
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\bin\Debug\20Ex.dll
+C:\Users\intern\Source\Repos\Windows forms\FormsTest\WpfApp1\bin\Debug\20Ex.dll.config

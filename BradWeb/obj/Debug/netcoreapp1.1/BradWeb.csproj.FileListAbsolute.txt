@@ -1,0 +1,13 @@
+C:\Users\intern\Documents\Visual Studio 2017\Projects\Brad\BradWeb\bin\Debug\netcoreapp1.1\BradWeb.deps.json
+C:\Users\intern\Documents\Visual Studio 2017\Projects\Brad\BradWeb\bin\Debug\netcoreapp1.1\BradWeb.runtimeconfig.json
+C:\Users\intern\Documents\Visual Studio 2017\Projects\Brad\BradWeb\bin\Debug\netcoreapp1.1\BradWeb.runtimeconfig.dev.json
+C:\Users\intern\Documents\Visual Studio 2017\Projects\Brad\BradWeb\bin\Debug\netcoreapp1.1\BradWeb.dll
+C:\Users\intern\Documents\Visual Studio 2017\Projects\Brad\BradWeb\bin\Debug\netcoreapp1.1\BradWeb.pdb
+C:\Users\intern\Documents\Visual Studio 2017\Projects\Brad\BradWeb\bin\Debug\netcoreapp1.1\BradApp.dll
+C:\Users\intern\Documents\Visual Studio 2017\Projects\Brad\BradWeb\bin\Debug\netcoreapp1.1\VecMat.dll
+C:\Users\intern\Documents\Visual Studio 2017\Projects\Brad\BradWeb\bin\Debug\netcoreapp1.1\BradApp.pdb
+C:\Users\intern\Documents\Visual Studio 2017\Projects\Brad\BradWeb\bin\Debug\netcoreapp1.1\VecMat.pdb
+C:\Users\intern\Documents\Visual Studio 2017\Projects\Brad\BradWeb\obj\Debug\netcoreapp1.1\BradWeb.csprojResolveAssemblyReference.cache
+C:\Users\intern\Documents\Visual Studio 2017\Projects\Brad\BradWeb\obj\Debug\netcoreapp1.1\BradWeb.AssemblyInfo.cs
+C:\Users\intern\Documents\Visual Studio 2017\Projects\Brad\BradWeb\obj\Debug\netcoreapp1.1\BradWeb.dll
+C:\Users\intern\Documents\Visual Studio 2017\Projects\Brad\BradWeb\obj\Debug\netcoreapp1.1\BradWeb.pdb

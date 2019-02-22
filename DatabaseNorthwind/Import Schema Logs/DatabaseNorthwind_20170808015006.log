@@ -1,0 +1,84 @@
+8/8/2017 4:50:06 PM	This log contains information about the import schema operation into project 'DatabaseNorthwind' on computer 'INTERN1' by user 'intern'.
+8/8/2017 4:50:07 PM	Import of database schema has started.
+8/8/2017 4:50:12 PM	Gathering database credentials
+8/8/2017 4:50:12 PM	Gathering database options
+8/8/2017 4:50:12 PM	Gathering users
+8/8/2017 4:50:12 PM	Gathering roles
+8/8/2017 4:50:12 PM	Gathering application roles
+8/8/2017 4:50:12 PM	Gathering role memberships
+8/8/2017 4:50:12 PM	Gathering filegroups
+8/8/2017 4:50:12 PM	Gathering full-text catalogs
+8/8/2017 4:50:12 PM	Gathering assemblies
+8/8/2017 4:50:12 PM	Gathering certificates
+8/8/2017 4:50:12 PM	Gathering asymmetric keys
+8/8/2017 4:50:12 PM	Gathering symmetric keys
+8/8/2017 4:50:12 PM	Gathering encrypted symmetric keys
+8/8/2017 4:50:12 PM	Gathering schemas
+8/8/2017 4:50:12 PM	Gathering XML schema collections
+8/8/2017 4:50:12 PM	Gathering user-defined data types
+8/8/2017 4:50:12 PM	Gathering user-defined types
+8/8/2017 4:50:12 PM	Gathering table types
+8/8/2017 4:50:12 PM	Gathering unique keys for table types
+8/8/2017 4:50:12 PM	Gathering primary keys for table types
+8/8/2017 4:50:12 PM	Gathering indexes for table types
+8/8/2017 4:50:12 PM	Gathering check constraints for table types
+8/8/2017 4:50:12 PM	Gathering default constraints for table types
+8/8/2017 4:50:12 PM	Gathering partition functions
+8/8/2017 4:50:12 PM	Gathering partition schemes
+8/8/2017 4:50:12 PM	Gathering functions
+8/8/2017 4:50:12 PM	Gathering encrypted functions
+8/8/2017 4:50:12 PM	Gathering aggregates
+8/8/2017 4:50:12 PM	Gathering procedures
+8/8/2017 4:50:12 PM	Gathering encrypted procedures
+8/8/2017 4:50:12 PM	Gathering tables
+8/8/2017 4:50:13 PM	Gathering primary keys
+8/8/2017 4:50:13 PM	Gathering unique constraints
+8/8/2017 4:50:13 PM	Gathering foreign keys
+8/8/2017 4:50:13 PM	Gathering default constraints
+8/8/2017 4:50:13 PM	Gathering check constraints
+8/8/2017 4:50:13 PM	Gathering views
+8/8/2017 4:50:13 PM	Gathering encrypted views
+8/8/2017 4:50:13 PM	Gathering indexes
+8/8/2017 4:50:13 PM	Gathering statistics
+8/8/2017 4:50:13 PM	Gathering full-text index stoplists
+8/8/2017 4:50:13 PM	Gathering search property lists
+8/8/2017 4:50:13 PM	Gathering search properties
+8/8/2017 4:50:13 PM	Gathering full-text indexes
+8/8/2017 4:50:13 PM	Gathering column store indexes
+8/8/2017 4:50:13 PM	Gathering spatial indexes
+8/8/2017 4:50:13 PM	Gathering XML indexes
+8/8/2017 4:50:13 PM	Gathering Selective XML indexes
+8/8/2017 4:50:13 PM	Gathering encrypted triggers
+8/8/2017 4:50:13 PM	Gathering triggers
+8/8/2017 4:50:13 PM	Gathering encrypted and clr ddl triggers
+8/8/2017 4:50:13 PM	Gathering ddl triggers
+8/8/2017 4:50:13 PM	Gathering synonyms
+8/8/2017 4:50:13 PM	Gathering defaults
+8/8/2017 4:50:13 PM	Gathering data constraint uddt bindings
+8/8/2017 4:50:13 PM	Gathering rules
+8/8/2017 4:50:13 PM	Gathering data constraint uddt bindings
+8/8/2017 4:50:13 PM	Gathering message types
+8/8/2017 4:50:13 PM	Gathering queues
+8/8/2017 4:50:13 PM	Gathering contracts
+8/8/2017 4:50:13 PM	Gathering services
+8/8/2017 4:50:13 PM	Gathering event notifications
+8/8/2017 4:50:13 PM	Gathering remote service bindings
+8/8/2017 4:50:13 PM	Gathering broker priorities
+8/8/2017 4:50:13 PM	Gathering signatures
+8/8/2017 4:50:13 PM	Gathering data compression options
+8/8/2017 4:50:13 PM	Gathering sequence types
+8/8/2017 4:50:13 PM	Gathering security policies
+8/8/2017 4:50:13 PM	Gather column encryption keys
+8/8/2017 4:50:13 PM	Gathering column master keys
+8/8/2017 4:50:13 PM	Gathering external data sources
+8/8/2017 4:50:13 PM	Gathering external file formats
+8/8/2017 4:50:13 PM	Gathering external tables
+8/8/2017 4:50:13 PM	Gathering extended properties
+8/8/2017 4:50:13 PM	Gathering credentials
+8/8/2017 4:50:13 PM	Gathering logins
+8/8/2017 4:50:13 PM	Gathering server audits
+8/8/2017 4:50:14 PM	Scanning project for duplicate elements
+8/8/2017 4:50:15 PM	Finished duplicate element processing
+8/8/2017 4:50:15 PM	Finished importing database.
+8/8/2017 4:50:15 PM	A summary of the import was saved to the following location: C:\Users\intern\Documents\Visual Studio 2017\Projects\DatabaseNorthwind\Import Schema Logs\DatabaseNorthwind_20170808015006.log
+8/8/2017 4:50:15 PM	Click Finish to continue...

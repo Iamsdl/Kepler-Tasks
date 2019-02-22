@@ -1,0 +1,4 @@
+select count(Employees.EmployeeID), Territories.TerritoryDescription from Employees
+left join EmployeeTerritories on Employees.EmployeeID=EmployeeTerritories.EmployeeID
+left join Territories on EmployeeTerritories.TerritoryID=Territories.TerritoryID
+group by Territories.TerritoryDescription

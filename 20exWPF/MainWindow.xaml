@@ -1,0 +1,18 @@
+﻿<Window x:Class="WpfApp1.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:WpfApp1"
+        mc:Ignorable="d"
+        Title="MainWindow" Height="667" Width="964" WindowStartupLocation="CenterScreen">
+    <Grid>
+        <Button x:Name="Program_1" Content="Program 1" HorizontalAlignment="Left" Margin="5,10,0,0" VerticalAlignment="Top" Width="75" Click="Program_1_Click"/>
+        <TextBox x:Name="Name" HorizontalAlignment="Left" Height="80" Margin="5,55,0,0" TextWrapping="Wrap" Text="Enter name" VerticalAlignment="Top" Width="165"/>
+        <Button x:Name="Program_2" Content="Program 2" HorizontalAlignment="Left" VerticalAlignment="Top" Width="75" Margin="10,160,0,0" Height="20" Click="Program_2_Click"/>
+        <Button x:Name="Program_3" Content="Program 3" HorizontalAlignment="Left" Margin="90,160,0,0" VerticalAlignment="Top" Width="85" Height="20" Click="Program_3_Click"/>
+        <RadioButton x:Name="loud" Content="loud" HorizontalAlignment="Left" Margin="10,140,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="quiet" Content="quiet" HorizontalAlignment="Left" Margin="119,140,0,0" VerticalAlignment="Top"/>
+        <RadioButton x:Name="normal" Content="normal" HorizontalAlignment="Left" Margin="58,140,0,0" VerticalAlignment="Top"/>
+    </Grid>
+</Window>

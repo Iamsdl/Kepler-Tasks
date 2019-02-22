@@ -1,0 +1,70 @@
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\csc.exe
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\csc.exe.config
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\csc.rsp
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\csi.exe
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\csi.rsp
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\System.AppContext.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\System.Collections.Immutable.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\System.IO.FileSystem.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\vbc.exe
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\vbc.exe.config
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\vbc.rsp
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\VBCSCompiler.exe
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\roslyn\VBCSCompiler.exe.config
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\Responsive site.dll.config
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\Responsive site.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\Responsive site.pdb
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\obj\Debug\Responsive site.csprojResolveAssemblyReference.cache
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\obj\Debug\Responsive site.dll
+c:\users\intern\documents\visual studio 2017\Projects\Responsive site\Responsive site\obj\Debug\Responsive site.pdb
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\csc.exe
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\csc.exe.config
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\csc.rsp
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\csi.exe
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\csi.rsp
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\System.AppContext.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\System.Collections.Immutable.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\System.IO.FileSystem.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\System.Reflection.Metadata.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\vbc.exe
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\vbc.exe.config
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\vbc.rsp
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\VBCSCompiler.exe
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\roslyn\VBCSCompiler.exe.config
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\Responsive site.dll.config
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\Responsive site.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\Responsive site.pdb
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\obj\Debug\Responsive site.csprojAssemblyReference.cache
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\obj\Debug\Responsive site.csproj.CoreCompileInputs.cache
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\obj\Debug\Responsive site.csproj.CopyComplete
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\obj\Debug\Responsive site.dll
+D:\SDL\Github\Responsive-ugly\Responsive site\Responsive site\obj\Debug\Responsive site.pdb

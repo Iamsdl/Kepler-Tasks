@@ -1,0 +1,9 @@
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime\bin\Debug\Anime.exe.config
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime\bin\Debug\Anime.exe
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime\bin\Debug\Anime.pdb
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime\obj\Debug\Anime.csprojResolveAssemblyReference.cache
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime\obj\Debug\Anime.Form1.resources
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime\obj\Debug\Anime.Properties.Resources.resources
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime\obj\Debug\Anime.csproj.GenerateResource.Cache
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime\obj\Debug\Anime.exe
+C:\Users\intern\Source\Repos\Anime WinForm\AnimeForm\Anime\obj\Debug\Anime.pdb

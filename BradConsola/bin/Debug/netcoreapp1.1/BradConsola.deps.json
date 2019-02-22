@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v1.1",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v1.1": {
+      "bradconsola/1.0.0": {
+        "dependencies": {
+          "BradApp": "1.0.0",
+          "VecMat": "1.0.0"
+        },
+        "runtime": {
+          "BradConsola.dll": {}
+        }
+      },
+      "bradapp/1.0.0": {
+        "runtime": {
+          "BradApp.dll": {}
+        }
+      },
+      "vecmat/1.0.0": {
+        "runtime": {
+          "VecMat.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "bradconsola/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "bradapp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "vecmat/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
